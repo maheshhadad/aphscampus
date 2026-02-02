@@ -1,0 +1,21 @@
+.main_login_box {
+    width: 50%;
+    height: 300px;
+    background: white;
+    margin-left: 25%;
+    margin-top: 150px;
+    border-radius: 9px;
+    padding-top: 2px;
+    padding-left: 6%;
+    padding-right: 6%;
+}
+.main_login_box > h1 {
+    font-size: 23px;
+    font-family: inherit;
+}
+.login_control_box {
+    margin-top: 50px;
+}
+.input_control {
+    height: 52px;
+}
